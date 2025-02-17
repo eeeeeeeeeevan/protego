@@ -1,4 +1,8 @@
-# Protego v0.4-DEV
+# Protego v0.4
 
-Simple but effective lua obfuscator. provides code and constant obfuscation; along with a large fuckton of anti-analysis.
+effective lua obfuscation. comes with anti-analysis measures to prevent obfcode from being reverse engineered
+
+
+of course, you can always make a deobf for this lolol
+
 
