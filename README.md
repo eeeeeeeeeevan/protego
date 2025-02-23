@@ -1,4 +1,4 @@
-# Protego v0.4
+# Protego v0.4-LEGACY
 
 effective lua obfuscation. comes with anti-analysis measures, control flow scrambling and more to prevent obfcode from being reverse engineered
 
